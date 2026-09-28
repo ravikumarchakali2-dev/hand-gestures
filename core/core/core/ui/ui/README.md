@@ -31,8 +31,6 @@ Real-time hand gesture recognition using:
 8. Three
 9. Four
 
-10.fiveee
-
 ## Installation
 
 Create a project folder:
